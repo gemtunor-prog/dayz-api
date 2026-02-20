@@ -1,12 +1,11 @@
-[
-  {
-    "name": "Meu Servidor DayZ",
-    "color": "-1",
-    "status": 1,
-    "recommend": true,
-    "newStatus": true,
-    "edgarHost": "192.168.1.10", 
-    "edgarPort": 7777,
-    "id": 1
-  }
-]
+{
+  "launcherVersion": 46,
+  "launcherUrl": "https://gemtunor-prog.github.io/dayz-api/seu_app.apk",
+  "launcherPath": "/updates/",
+  "launcherName": "dayz_update.apk",
+  "isTest": false,
+  "testApi": true,
+  "archives": [],
+  "deleted": [],
+  "api": "main.json"
+}
