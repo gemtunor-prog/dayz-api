@@ -1,8 +1,8 @@
 {
   "launcherVersion": 46,
-  "launcherUrl": "https://gemtunor-prog.github.io/dayz-api/seu_app.apk",
+  "launcherUrl": "https://github.com/gemtunor-prog/dayz-api/releases/download/v1.0/SPACE.RP",
   "launcherPath": "/updates/",
-  "launcherName": "dayz_update.apk",
+  "launcherName": "dayz.apk",
   "isTest": false,
   "testApi": true,
   "archives": [],
