@@ -1,1 +1,13 @@
 
+[
+  {
+    "id": 1,
+    "name": "MEU DAYZ MOBILE",
+    "color": "-1",
+    "status": 1,
+    "recommend": true,
+    "newStatus": true,
+    "edgarHost": "127.0.0.1",
+    "edgarPort": 7777
+  }
+]
