@@ -1,1 +1,10 @@
-
+{
+  "stories": "news.json",
+  "faq": "faq.json",
+  "createCharacter": "https://meu-site.com/api/create",
+  "verifyAuth": "https://meu-site.com/api/verify",
+  "accountDetails": "https://meu-site.com/api/details",
+  "isAcc": "https://meu-site.com/api/check",
+  "skinsCDN": "https://meu-site.com/skins/",
+  "servers": "servers.json"
+}
