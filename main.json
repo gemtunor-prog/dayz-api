@@ -1,10 +1,10 @@
 {
   "stories": "news.json",
   "faq": "faq.json",
-  "createCharacter": "https://meu-site.com/api/create",
-  "verifyAuth": "https://meu-site.com/api/verify",
-  "accountDetails": "https://meu-site.com/api/details",
-  "isAcc": "https://meu-site.com/api/check",
-  "skinsCDN": "https://meu-site.com/skins/",
+  "createCharacter": "https://gemtunor-prog.github.io/dayz-api/placeholder",
+  "verifyAuth": "https://gemtunor-prog.github.io/dayz-api/placeholder",
+  "accountDetails": "https://gemtunor-prog.github.io/dayz-api/placeholder",
+  "isAcc": "https://gemtunor-prog.github.io/dayz-api/placeholder",
+  "skinsCDN": "https://gemtunor-prog.github.io/dayz-api/skins/",
   "servers": "servers.json"
 }
